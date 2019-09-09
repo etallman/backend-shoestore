@@ -49,8 +49,5 @@ class ShoeViewSet(ModelViewSet):
     
     
     # @action(detail = False, methods=['GET', 'POST'])
-    # def hello(self, request):
-    #     return Response(
-    #         {"I'm sorry!"}, 
-            
-    #     )
+    # def hello(self, request):       
+    # 
